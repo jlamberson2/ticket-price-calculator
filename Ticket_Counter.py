@@ -110,7 +110,6 @@ class gui:
 
     def save_transaction(self):
         file_name = "tickets sold.txt" #current working filename for saved transactions
-        print("In progress")
         #get current directory
         current_directory = os.getcwd()
 
