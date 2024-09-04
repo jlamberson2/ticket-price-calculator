@@ -1,5 +1,6 @@
 #Ticket Counter
 #A basic ticket counter program for Forrest
+import sys
 
 #importing tkinter for GUI
 import tkinter
